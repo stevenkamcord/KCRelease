@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.kamcord.Kamcord-Beta</string>
+				<string>com.kamcord.Kamcord</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
